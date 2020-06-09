@@ -1,0 +1,4 @@
+1) Comment each line of code.
+2) Make file for each functionality and explain it in as detail as possible there.
+3) Structure frontend and backend project based on functionality
+4) Dont fear from UI, atleast the HTML sets up basic structure and can be setup easily.
