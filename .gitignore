@@ -1,16 +1,16 @@
-/frontend/node_modules
-/frontend/.pnp
-/frontend/.pnp.js
-/frontend/coverage
-/frontend/build
-/frontend/.DS_STORE
-/frontend/.env.local
-/frontend/.env.development.local
-/frontend/.env.test.local
-/frontend/.env.production.local
-/frontend/npm-debug.log*
-/frontend/yarn-debug.log*
-/frontend/yarn-error.log*
+/ui/node_modules
+/ui/.pnp
+/ui/.pnp.js
+/ui/coverage
+/ui/build
+/ui/.DS_STORE
+/ui/.env.local
+/ui/.env.development.local
+/ui/.env.test.local
+/ui/.env.production.local
+/ui/npm-debug.log*
+/ui/yarn-debug.log*
+/ui/yarn-error.log*
 
 /target
 
