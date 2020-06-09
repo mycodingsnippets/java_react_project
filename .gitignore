@@ -13,3 +13,5 @@
 /frontend/yarn-error.log*
 
 /target
+
+/.idea
